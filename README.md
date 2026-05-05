@@ -1,5 +1,3 @@
-# Implementation of FlashAttention on MiniTorch
-
 # FlashAttention in MiniTorch
 
 > A from-scratch CUDA implementation of FlashAttention integrated into the MiniTorch educational deep learning framework, with empirical benchmarks on a machine translation task.
